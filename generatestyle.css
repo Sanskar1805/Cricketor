@@ -1,0 +1,21 @@
+.wrapper{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    text-align: center;
+    background-color: beige;
+}
+.bdy{
+    background-color:darkcyan;
+}
+h2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+label{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.inp{
+    background-color:black;
+    width: 300px;
+    color: cornsilk;
+}

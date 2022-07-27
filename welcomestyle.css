@@ -1,0 +1,132 @@
+.c-design{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 7%;
+}
+
+h1 {
+    margin-left:8%;
+    margin-top:5%;
+    font-family: fantasy;
+    font-style: italic;
+    font-weight:lighter;
+    color:#2C3639;
+}
+.main{
+    padding : 0 5%;
+}
+.iconic{
+    width: 10%;
+    position: absolute;
+    right:18%;
+    top:15%;
+}
+h2 {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size:medium;
+}
+.img2{
+    width:15%;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    margin-top: -5%;
+    margin-bottom: 5%;
+}
+body {
+    background-color:beige;
+    /* background-image: url("cric11.jpg"); */
+    background-attachment: fixed;
+    background-blend-mode: darken;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+.icon{
+    color:#EB4747;
+}
+.icon:hover{
+    color:#FF8B8B;
+}
+.x {
+    font-style: italic;
+    font-family:fantasy;
+    font-weight: bold;
+}
+
+.y{
+    block-size: fit-content;
+    width:500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:5%;
+    padding:1px;
+    background-color: #3F4E4F;
+    
+}
+.btn2 {
+    background-color: black;
+    font-size: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    width:250px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: inline-block;
+    border: solid;
+    border-color: black;
+    background-color:#A27B5C;
+    color:#DCD7C9;
+    
+
+}
+.nwcls{
+    margin-top:3%;
+}
+.b{
+    margin-top: 20px;
+    display: inline-block;
+}
+.b1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-decoration: none;
+    color: #DCD7C9;
+}
+.b2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-decoration: none;
+    color: #3F4E4F;
+}
+.btn2{
+    display: inline-block;
+    background-color: black;
+    font-size: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width:250px;
+    border: solid;
+    border-color: black;
+    background-color:#A27B5C;
+    color:#DCD7C9;
+}
+.my-5{
+    text-align: left;
+    line-height: 2;
+    font-size: 3rem;
+    color:#3F4E4F;
+    padding-top: 4%;
+    font-family: 'Edu NSW ACT Foundation', cursive;
+    font-weight: bold;
+}
+.btn{
+    border-color: #2C3639;
+}
+.up{
+    margin-top:5%;
+}
+

@@ -1,0 +1,56 @@
+.block1 , .block2  {
+    display:inline-block;
+    vertical-align:top;
+}
+
+
+.table1 ,  td {
+    border: 1px solid black;
+    background-color:darkslategrey;
+    font-family: fantasy;
+    color : white;
+}
+
+th{
+    border: 2px solid black;
+    background-color: black;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color  : white;
+}
+
+body{
+    background-image: url("score.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#big1 #big2 {
+    display: inline-block;
+}
+#big1 {
+    float :right;
+}
+#big2 {
+    float : left;
+}
+
+h1{
+    text-align: center;
+    font-size: 100px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#upperdiv{
+    background-color:honeydew;
+    color: darkslategray;
+    margin-left :500px;
+    margin-right : 500px;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border: 2px solid black;
+    margin-bottom: 100px;
+    margin-top: 50px;
+
+}
